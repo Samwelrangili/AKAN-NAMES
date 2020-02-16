@@ -5,6 +5,8 @@ body{
 h1{
     color: tomato;
     font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    justify-items: center;
 }
 p{
     font-size: 20px;
