@@ -34,6 +34,8 @@ file:///home/samuel/Pictures/Screenshot%20from%202020-02-17%2000-21-44.png
 
 
 ## Project live link.
+View my project in this link;
+https://samwelrangili.github.io/Akan-Names/
 
 
 
