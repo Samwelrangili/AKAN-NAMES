@@ -11,6 +11,8 @@ AKAN-NAMES
 
 
 ## BDD.
+This website has a form were a user can insert their date of birth.Finally,the website calculate the day of the week you were born and your Akan Name.
+file:///home/samuel/Pictures/Screenshot%20from%202020-02-17%2000-21-44.png
 
 
 
