@@ -78,6 +78,6 @@ function output() {
     ("Hello,you were born on Sunday and your akan name is " + girl[0]);
     }
    else {
-    alert("Insert Your date of birth");
+    alert("Insert Your valid date of birth");
     }
     }
