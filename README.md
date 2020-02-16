@@ -41,8 +41,10 @@ https://samwelrangili.github.io/Akan-Names/
 
 
 ## Contact.
-
-
+Reach me on;
+E-mail-samwelrangili896@gmail.com.
+Mobile-+254758597216/+254708861091.
+Facebook-Samwel Rangili.
 
 ## {MINT} LICESNSE.
 MIT License
