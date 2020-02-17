@@ -2,43 +2,20 @@
 AKAN-NAMES
 
 ## Project Description.
+This website helps in knowig Akan-Names,Whereby the user enters their Date, Month, and Year of birth.The The website automatically calculates the users birth day and their Akan-Names.
 
 ## Author.
-
-
+SAMWEL ADIEMA RANGILI.
 
 ## Technologies Used.
+While building this website,i used the folowing technologies;HTML, JAVASCRIPT, CSS, AND BOOOTSTRAP.
 
 
 ## BDD.
 This website has a form were a user can insert their date of birth.Finally,the website calculate the day of the week you were born and your Akan Name.
-file:///home/samuel/Pictures/Screenshot%20from%202020-02-17%2000-21-44.png
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Project live link.
 View my project in this link;
 https://samwelrangili.github.io/Akan-Names/
-
-
-
 
 ## Contact.
 Reach me on;
