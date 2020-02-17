@@ -1,0 +1,20 @@
+body{
+    background-color: whitesmoke;
+    background-image: url("https://bit.ly/2UTWI5p");
+}
+h1{
+    color: tomato;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    justify-items: center;
+}
+p{
+    font-size: 20px;
+    color: black;
+}
+#outcome{
+    color: red;
+}
+#footer{
+    color: lawngreen;
+}
